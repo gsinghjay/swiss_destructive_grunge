@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "slug": "underground-zines",
+    "title": "UNDERGROUND ZINES",
+    "description": "Photocopied rebellion. Cut-and-paste manifestos. Lo-fi authenticity.",
+    "content": "A series of self-published zines exploring deconstructivist principles through the lo-fi aesthetic of 1990s DIY culture.\n\n**Each issue features:**\n\nExperimental typography with intentionally broken grids and overlapping text layers. Hand-torn paper elements scanned and digitally manipulated. Photocopier artifacts deliberately preserved for authenticity. Found imagery from thrift store books and vintage magazines.\n\n**The aesthetic embraces:**\n\nLow-resolution scans and degraded quality as artistic choices. Cut-and-paste collages with visible tape and scissors marks. Grunge textures and distressed surfaces throughout. Illegible moments where form overwhelms function.\n\n**Distribution:**\n\nPhysically printed on a vintage photocopier and hand-distributed at local shows and art spaces. Digital versions maintain the lo-fi quality rather than cleaning up artifacts.",
+    "image": "https://images.pexels.com/photos/4065876/pexels-photo-4065876.jpeg",
+    "tags": ["Print Design", "Zines", "Lo-Fi", "DIY"],
+    "rotation": -3
+  },
+  {
+    "id": 2,
+    "slug": "chaos-posters",
+    "title": "CHAOS POSTERS",
+    "description": "Concert posters that reject legibility and embrace visual noise.",
+    "content": "A poster series for fictional underground music events, designed to embody the sonic chaos of the performances they advertise.\n\n**Design Philosophy:**\n\nLayered typography rotated at multiple angles creates visual tension. Clashing neon colors (yellow, pink, green) against pure black backgrounds. Distressed textures and grunge effects simulate photocopier degradation. Critical information deliberately difficult to parse, requiring viewer effort.\n\n**Typographic Treatment:**\n\nFragmented text broken across multiple layers and angles. Mix of condensed sans-serifs and bold display faces. Intentional overlaps where letters interrupt each other. Scale changes mid-word to disrupt reading flow.\n\n**Visual Effects:**\n\nHalftone patterns at varying densities create visual noise. Scan lines and glitch effects suggest analog/digital collision. Torn paper edges and distressed borders throughout. Strategic illegibility balanced with just enough clarity to function.",
+    "image": "https://images.pexels.com/photos/6954174/pexels-photo-6954174.jpeg",
+    "tags": ["Poster Design", "Typography", "Grunge", "Experimental"],
+    "rotation": 4
+  },
+  {
+    "id": 3,
+    "slug": "four-ad-tribute",
+    "title": "4AD TRIBUTE",
+    "description": "Dark, layered, mysterious designs inspired by Vaughan Oliver's iconic album art.",
+    "content": "A conceptual album art series paying homage to Vaughan Oliver's work for 4AD Records, blending photography, texture, and experimental typography.\n\n**Visual Approach:**\n\nDark, moody color palettes with strategic use of vibrant accent colors. Multiple photographic layers blended with transparency and overlay modes. Abstract textures creating atmospheric depth and mystery. Typography integrated into imagery rather than sitting on top.\n\n**Techniques:**\n\nDouble exposure effects and photographic collage. Grain, noise, and film artifacts for analog warmth. Distressed textures and degraded surfaces. Ambiguous compositions that reward close viewing.\n\n**Conceptual Framework:**\n\nEach design explores themes of memory, decay, and beauty in imperfection. The work resists immediate comprehension, requiring contemplation. Form and content merge—how it looks IS what it means. Emotional resonance prioritized over literal communication.\n\n**Medium:**\n\nDigital design deliberately mimicking analog processes. Vintage photography techniques simulated in post-production. Intentional imperfections preserved rather than corrected.",
+    "image": "https://images.pexels.com/photos/4492129/pexels-photo-4492129.jpeg",
+    "tags": ["Album Art", "Photography", "Collage", "Tribute"],
+    "rotation": -2
+  }
+]
